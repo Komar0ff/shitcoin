@@ -1,0 +1,16 @@
+{
+  "name": "shitcoin",
+  "version": "0.0.1",
+  "description": "another shitcoin project (for education)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "komar0ff",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.16",
+    "hardhat-gas-reporter": "^2.2.1"
+  }
+}
