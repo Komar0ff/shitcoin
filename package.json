@@ -4,7 +4,8 @@
   "description": "another shitcoin project (for education)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "npx hardhat compile",
+    "tests": "npx hardhat test"
   },
   "author": "komar0ff",
   "license": "ISC",
